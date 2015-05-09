@@ -1,0 +1,10 @@
+F:\CODE\DemoUserControl\DemoUserControl\bin\Debug\DemoUserControl.exe.config
+F:\CODE\DemoUserControl\DemoUserControl\bin\Debug\DemoUserControl.exe
+F:\CODE\DemoUserControl\DemoUserControl\bin\Debug\DemoUserControl.pdb
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.csprojResolveAssemblyReference.cache
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.Form1.resources
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.Properties.Resources.resources
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.csproj.GenerateResource.Cache
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.exe
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\DemoUserControl.pdb
+F:\CODE\DemoUserControl\DemoUserControl\obj\Debug\QuanLyHocSinh.ButtonFlat.resources
